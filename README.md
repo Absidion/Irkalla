@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+Greetings! If you're reading this, you've stumbled onto the Github that contains the scripts, shaders and code created by The Negative for our project called Irkalla.
 
-You can use the [editor on GitHub](https://github.com/aike0017/Irkalla/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Who is The Negative?
+We were a 7-man team of college students in a game development program. For our third and final year, we were put into a team to create something for our now remaining 7-8 months of school. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+What is Irkalla?
+Irkalla is a First-Person Perspective Rogue-Like featuring Artifical Intelligence, Networking and Procedural Generation.
+It's a co-op game and we intended for it to have two players join together to share in a similar experience without one person being the Lead and the other being just a side kick.
 
-### Markdown
+Used for this project was Photon Unity Networking from Exit Games. This was to handle our netcode instead of using UNet.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aike0017/Irkalla/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You'll only find code for this project in this repo. Art Assets were not uploaded.
